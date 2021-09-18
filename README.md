@@ -4,6 +4,6 @@ A cross-platform application for parents to help them train their children to be
 
 Red card means the child must be silent and wait their turn. Green card means it is the child's turn.
 
-<img src="https://imgur.com/tW8VJjA.png" width="75%"/>
+<img src="https://imgur.com/tW8VJjA.png" width="50%"/>
 
-<img src="https://imgur.com/trL4FUe.png" width="75%"/>
+<img src="https://imgur.com/trL4FUe.png" width="50%"/>
